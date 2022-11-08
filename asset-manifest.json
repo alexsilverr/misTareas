@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/misTareas/static/css/main.4870a070.css",
+    "main.js": "/misTareas/static/js/main.d8f11efb.js",
+    "static/media/fondo.jpg": "/misTareas/static/media/fondo.9fa84ec5c29ea759b5cd.jpg",
+    "index.html": "/misTareas/index.html",
+    "main.4870a070.css.map": "/misTareas/static/css/main.4870a070.css.map",
+    "main.d8f11efb.js.map": "/misTareas/static/js/main.d8f11efb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4870a070.css",
+    "static/js/main.d8f11efb.js"
+  ]
+}
